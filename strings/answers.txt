@@ -1,0 +1,4 @@
+1. strcmp() returns 0 when two strings are equal
+2. Hello World
+3. 6
+
