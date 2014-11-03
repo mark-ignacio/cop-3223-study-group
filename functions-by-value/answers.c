@@ -124,7 +124,14 @@ int main() {
         puts(" (0,0,5) does not intersect with (20, 20, 5)");
     }
 
+    puts("");
+    puts("79 star diamond");
+    printDiamond(79);
+
     puts("7 star diamond");
     printDiamond(7);
+
+    puts("1 star diamond");
+    printDiamond(1);
     return 0;
 }
